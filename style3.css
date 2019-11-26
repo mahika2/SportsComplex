@@ -1,0 +1,54 @@
+.w{
+width:1000px;
+margin:5%auto;
+}
+
+.contact1{
+width:20%;
+float:right;
+box-shadow:1px 1px 20px rgba(0,0,0,0.5);
+text-align:center;
+margin: 50px;
+}
+.imga{
+align:center;
+margin:5% auto  0 auto;
+text-align:center;
+
+}
+.att img:hover{
+cursor:pointer;
+}
+.in h4{
+font-size:16px;
+color:white;
+text-align:center;
+}
+.att img{
+width:180x;
+height:190px;
+border-radius:60%;
+}
+.ft a:hover{
+
+border:1px solid black;
+transform:scale(1.1);
+border-radius:25px;
+}
+ #textbox
+{
+    height:60px;
+    font-size:14pt;
+    border-radius: 23px;
+    padding : 10px 0px;
+}
+.head{
+color:white;
+ font-size:14pt;
+}
+#textbox:hover
+{
+    background-color: Gainsboro  ;
+    border-radius: 25px;
+    padding : 10px 0px;
+}
